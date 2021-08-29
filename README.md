@@ -3,3 +3,5 @@
 small calculator with pointers.
 
 With only basic operations.
+
+Subject: Data structure.
